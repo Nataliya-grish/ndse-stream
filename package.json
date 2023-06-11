@@ -1,0 +1,25 @@
+{
+  "name": "ndse-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "game": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nataliya-grish/ndse-stream.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nataliya-grish/ndse-stream/issues"
+  },
+  "homepage": "https://github.com/Nataliya-grish/ndse-stream#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
